@@ -6,7 +6,7 @@ This is _Rust_ learning resources collected and shared by _RfR_ Reading Group, a
 
 ### Resources Index
 
-1. [A index page for learning resources of Rust](https://www.rust-lang.org/learn)
+1. [A index page of learning resources of Rust](https://www.rust-lang.org/learn)
 2. [Awesome Rust](https://github.com/kud1ing/awesome-rust)
 
 ### Reading Oriented Materials
