@@ -34,7 +34,12 @@ This is _Rust_ learning resources collected and shared by _RfR_ Reading Group, a
 
 ### Projects Learning
 
-1. [A tutorial on how to build a VPN with Rust](https://githubfast.com/Warrenren/inside-rust-std-library)
+1. [A tutorial on how to build a VPN with Rust](https://write.yiransheng.com/vpn)
+
+### Rust Compiler
+
+1. [Rustc Developer Guide](https://rustc-dev-guide.rust-lang.org/getting-started.html)
+
 
 ### Documentations
 

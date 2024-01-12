@@ -35,7 +35,7 @@
 
 ### 项目学习
 
-1. [一个使用Rust搭建VPN的教程](https://githubfast.com/Warrenren/inside-rust-std-library)
+1. [一个使用Rust搭建VPN的教程](https://write.yiransheng.com/vpn)
 
 ### 文档查阅
 
